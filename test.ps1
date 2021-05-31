@@ -1,1 +1,1 @@
-write-host 'yayayayyayay'
+Install-WindowsFeature -name Web-Server -IncludeManagementTools
